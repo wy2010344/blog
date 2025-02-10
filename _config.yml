@@ -8,13 +8,13 @@ subtitle: ""
 description: "This is my technical thinking blog"
 keywords:
 author: wy2010344
-language: en
+language: zh-cn
 timezone: ""
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: http://example.com
-root: blog
+root: /blog
 permalink: :title/
 permalink_defaults:
 pretty_urls:
