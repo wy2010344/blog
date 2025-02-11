@@ -8,7 +8,7 @@ subtitle: ""
 description: "This is my technical thinking blog"
 keywords:
 author: wy2010344
-language: zh-cn
+language: zh-CN
 timezone: ""
 
 # URL
@@ -97,13 +97,5 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
-
-# Deployment
-## Docs: https://hexo.io/docs/one-command-deployment
-deploy:
-  type: git
-  repo:
-    github:
-      url: "git@github.com:wy2010344/blog.git"
-      branch: main
+theme: next
+# theme: landscape
